@@ -1,8 +1,6 @@
 SONY PSX Debug Font
 ===================
 
-Welcome
-====================
 Thanks for your interest in SONY PSX Debug Font. This project is now hosted at
 https://bitbucket.org/JustinLloyd/sony-psx-debug-font
 
