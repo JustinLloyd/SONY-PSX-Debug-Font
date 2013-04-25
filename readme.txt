@@ -1,12 +1,11 @@
-SONY PSX Debug Font
-===================
+* Welcome
+Thanks for downloading SONY PSX Debug Font.
 
-Thanks for your interest in SONY PSX Debug Font. This project is now hosted at
-https://bitbucket.org/JustinLloyd/sony-psx-debug-font
+Visit https://bitbucket.org/JustinLloyd/sony-psx-debug-font/overview for more
+information and to download the latest version.
 
 
-License
-====================
+* License
                       DO WHATEVER PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
@@ -21,8 +20,7 @@ License
  Software originally created by Justin Lloyd @ http://otakunozoku.com/
 
 
-About
-====================
+* About
 A stroke font that can be used for displaying debug information on the SONY
 Playstation when your TRAM is hosed or not yet set up.
 
@@ -35,11 +33,10 @@ underyling code that has been implemented on pretty much any platform I've ever
 developed for from the Acorn Atom all the way up to the XBOX 360.
 
    
-Pre-requisites
-====================
+* Pre-requisites
 1. C compiler
 2. SONY PSX Developer Libraries
 
-Support
-====================
+* Support
 Absolutely none provided.
+  
